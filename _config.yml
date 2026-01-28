@@ -23,7 +23,7 @@ repository               : "jamescarr-maths.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "James Carr"
   pronouns         : # example: "she/her"  
   bio              : "Researcher in Mathematical Logic"
