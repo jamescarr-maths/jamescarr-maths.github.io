@@ -1,7 +1,7 @@
 ---
 title: "Hereditary Structural Completeness over K4: Rybakov&#39;s Theorem Revisited"
 collection: publications
-category: manuscripts
+category: thesis
 permalink: /publication/2022-02-Master-Thesis
 excerpt: 'Investigation into hereditary structurally complete transitive modal logics via algebraic logic and duality'
 date: 2022-02-17
