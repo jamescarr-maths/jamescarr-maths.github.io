@@ -10,3 +10,6 @@ paperurl: 'https://jamescarr-maths.github.io/files/Locality lmcs Submission Revi
 bibtexurl: 'https://jamescarr-maths.github.io/files/Locality lmcs.bib'
 citation: 'Carr, J. (2026). &quot;Locality in Residuated Structures.&quot; <i>Logical Methods in Computer Science (under review) 1</i>. 1(1).'
 ---
+
+[Arxiv link](
+https://doi.org/10.48550/arXiv.2506.16206)

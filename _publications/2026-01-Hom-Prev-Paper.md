@@ -10,3 +10,6 @@ paperurl: 'https://jamescarr-maths.github.io/files/Hom Preservation ACM Final.pd
 bibtexurl: 'https://jamescarr-maths.github.io/files/Hom Preservation ACM.bib'
 citation: 'Carr, J. (2026). &quot;Homomorphism Preservation Theorems for Many-Valued Structures.&quot; <i>ACM Transactions on Computational Logic 1</i>. 1(1).'
 ---
+
+[Arxiv Link](
+https://doi.org/10.48550/arXiv.2403.00217)
