@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-01-Hom-Prev-Paper
 excerpt: 'Preservation theorems are a group of results from model theory that describe relationships between syntactic and semantic properties of first-order formulas'
-date: 2026-01
+date: 2026-01-31
 venue: 'ACM Transactions on Computational Logic'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/Hom Preservation ACM Final.pdf'
