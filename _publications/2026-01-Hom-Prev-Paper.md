@@ -3,7 +3,7 @@ title: "Homomorphism Preservation Theorems for Many-Valued Structures"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-01-Hom-Prev-Paper
-excerpt: 'We show how one can extend Rossman&rsquos proof of a finite homomorphism preservation theorem to a wide collection of many-valued predicate logics'
+excerpt: 'We show how one can extend Rossman&#39s proof of a finite homomorphism preservation theorem to a wide collection of many-valued predicate logics'
 date: 2026-01-31
 venue: 'ACM Transactions on Computational Logic'
 paperurl: 'https://jamescarr-maths.github.io/files/Hom Preservation ACM Final.pdf'
