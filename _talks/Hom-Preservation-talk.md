@@ -8,6 +8,4 @@ date: 2023-11-23
 location: "Melbourne, Vic, Australia"
 ---
 
-Presentation on extension of Rossman&#39;s proof of a classical finite homomorphism preservation theorem to a wide collection of many-valued predicate logics. 
-
-Also presented at AAL 2023, TACL 2024.
+Presentation on extension of Rossman&#39;s proof of a classical finite homomorphism preservation theorem to a wide collection of many-valued predicate logics. Also presented at AAL 2023, TACL 2024.

@@ -8,6 +8,4 @@ date: 2022-06-15
 location: "Coimbra, Portugal"
 ---
 
-Presentation on investigation into hereditary structurally complete transitive modal logics via algebraic logic and duality. 
-
-Also presented at LATD 2022, AAC 2022 and Logic Colloqium 2023.
+Presentation on investigation into hereditary structurally complete transitive modal logics via algebraic logic and duality. Also presented at LATD 2022, AAC 2022 and Logic Colloqium 2023.
