@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Homomorphism Preservation in the Finite for Many-Valued Logics<br />7th Australian Algebra Conference - 2023; Melbourne, Vic, Australia",
+    -37.8142454,
+    144.9631732
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Locality in Residuated Lattice Models<br />Australian Association of Logic Conference - 2024; Sydney, NSW, Australia",
+    -33.8698439,
+    151.2082848
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Preservation Theorems for Many-Valued Logics via Categorical Methods<br />Logic, algebra and Truth Degrees - 2025; Siena, Italy",
+    43.167206,
+    11.467561
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "Hereditary Structural Completeness over K4<br />Topology, algebra and categories in Logic - 2022; Coimbra, Portugal",
+    40.2111931,
+    -8.4294632
   ]
 ];
